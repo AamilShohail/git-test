@@ -8,3 +8,4 @@ console.log(a + b);
 function callMe() {
   console.log("add me into your console");
 }
+alert("calling me");
