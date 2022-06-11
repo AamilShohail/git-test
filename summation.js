@@ -9,3 +9,4 @@ console.log(a * b);
 console.log("this is first commit of this test-sqush branch");
 console.log("this is second commit of this test-sqush branch");
 console.log("this is third commit of this test-sqush branch");
+console.log("this is forth commit of this test-sqush branch");
